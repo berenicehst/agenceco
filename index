@@ -13,7 +13,7 @@
 
     <header class="header">
         <a href="" class="logo">Agence<em>Co</em></a>
-        <input class="menu-btn" type="checkbox" id="menu-btn" />
+        <input class="menu-btn" type="checkbox" id="menu-btn">
         <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
         <ul class="menu">
           <li><a href="#accueil">Accueil</a></li>
@@ -68,17 +68,17 @@
 
                 <div class="notre-equipe">
                     <div class="Julie-Dupond">
-                    <img src="./Images/Julie-Dupond.jpg" alt="Julie Dupond" class="photo-equipe"><br/>
+                    <img src="./Images/Julie-Dupond.jpg" alt="Julie Dupond" class="photo-equipe"><br>
                     <span class="nom1">Julie Dupond</span> <br>
                     <span class="legende">Lorem ipsum dolor sit amet, <br>consectetur adipiscing elit<br>incididunt ut labore</span>
                     </div>
                     <div class="Romeo-Sylla">
-                    <img src="./Images/Romeo-Sylla.jpg" alt="Romeo Sylla" class="photo-equipe"><br/>
+                    <img src="./Images/Romeo-Sylla.jpg" alt="Romeo Sylla" class="photo-equipe"><br>
                     <span class="nom2">Romeo Sylla</span> <br>
                     <span class="legende">Lorem ipsum dolor sit amet, <br>consectetur adipiscing elit<br>incididunt ut labore</span>
                     </div>
                     <div class="Javier-bardem">
-                    <img src="./Images/Javier-bardem.jpg" alt="Javier Bardem" class="photo-equipe"><br/>
+                    <img src="./Images/Javier-bardem.jpg" alt="Javier Bardem" class="photo-equipe"><br>
                     <span class="nom3">Javier Bardem</span> <br>
                     <span class="legende">Lorem ipsum dolor sit amet, <br>consectetur adipiscing elit<br>incididunt ut labore</span>
                     </div>
@@ -106,11 +106,11 @@
         
         <div class="services">
             <div class="creation-sites">
-            <img src="./Images/Vector.jpg" class="picto-creation">
+            <img src="./Images/Vector.jpg" class="picto-creation" alt="creation sites">
             <span class="services">Création de sites web</span>
             </div>
             <div class="audit">
-            <img src="./Images/Vector-1.jpg" class="picto-audit">
+            <img src="./Images/Vector-1.jpg" class="picto-audit" alt="audit qualite">
             <span class="services">Audit qualité</span>
             </div>
         </div>
@@ -131,7 +131,7 @@
 
                 <input type="text" id="Mail" name="Email" placeholder="Email">
             
-                <textarea id="Message" name="Message" placeholder="Message" style="height:200px"></textarea><br/>
+                <textarea id="Message" name="Message" placeholder="Message" style="height:200px"></textarea><br>
             
                 <input type="submit" id="envoyer" value="Envoyer">
             
@@ -139,21 +139,21 @@
     </div>
 
     <div id="a-propos">
-        <img src="./Images/jason-goodman-Oalh2MojUuk-unsplash 1.jpg" class="photo-reunion">
+        <img src="./Images/jason-goodman-Oalh2MojUuk-unsplash.jpg" class="photo-reunion" alt="photo reunion">
         <div class="a-propos">
             <h3>A propos de nous</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt</p>
             <div class="icons">
                 <div class="promesse">
-                    <img src="./Images/Vector-2.jpg" class="picto">
+                    <img src="./Images/Vector-2.jpg" class="picto" alt="icon ecologie">
                     <p>Ecologique</p>
                 </div>
                 <div class="promesse">
-                    <img src="./Images/Vector-3.jpg" class="picto">
+                    <img src="./Images/Vector-3.jpg" class="picto" alt="icon responsable">
                     <p>Responsable</p>
                 </div>
                 <div class="promesse">
-                    <img src="./Images/Vector-4.jpg" class="picto">
+                    <img src="./Images/Vector-4.jpg" class="picto" alt="icon assistance">
                     <p>24/7Assistance</p>
                 </div>
             </div>
@@ -163,8 +163,8 @@
     <div id="notre-galerie">
         <h2>Notre galerie</h2>
         <div class="photo-diapo">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
-            <img src="./Images/kevin-bhagat-zNRITe8NPqY-unsplash 1.jpg" class="photo-diaporama">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+            <img src="./Images/kevin-bhagat-zNRITe8NPqY-unsplash.jpg" class="photo-diaporama" alt="photo ordinateur">
         </div>
             <i id="nav-gauche" class="las la-chevron-left"></i> 
             <i id="nav-droite" class="las la-chevron-right"></i> 
