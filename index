@@ -138,27 +138,57 @@
               </form>
     </div>
 
+    <div id="DuoBloc">
+        <aside>
+            <img src="./Images/jason-goodman-Oalh2MojUuk-unsplash.jpg" alt="photo groupe de reunion" class="imagereunion" />
+        </aside>
+        <aside>
+            <div id="servicesbloc">
+                <a><span class="apropos">A propos de nous</span></a>
+                <a><span class="descripropos">Lorem ipsum dolor sit amet. A placeat dolores in cumque omnis ea qudis eveniet hic.</span> </a>
+                <div class="blockhorizontal">
+                    <div class="colonneicon">
+                        <img class="cercle" src="./Images/Vector-2.jpg" alt="icon monde+main"  />
+                        <span class="bouton">Écologique </span>
+                    </div>
+                    <div class="colonneicon">
+                        <img class="cercle" src="./Images/Vector-3.jpg" alt="icon goutte d'eau+main" />
+                        <span class="bouton">Responsable </span>
+                    </div>
+                    <div class="colonneicon">
+                        <img class="cercle" src="./Images/Vector-4.jpg" alt="icon Montre 24h" />
+                        <span class="bouton">24/7 Assistance </span>
+                    </div>
+                </div>
+            </div>
+        </aside>
+    </div>
+
+    <!--
     <div id="a-propos">
-        <img src="./Images/jason-goodman-Oalh2MojUuk-unsplash.jpg" class="photo-reunion" alt="photo reunion">
-        <div class="a-propos">
-            <h3>A propos de nous</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt</p>
-            <div class="icons">
-                <div class="promesse">
-                    <img src="./Images/Vector-2.jpg" class="picto" alt="icon ecologie">
-                    <p>Ecologique</p>
-                </div>
-                <div class="promesse">
-                    <img src="./Images/Vector-3.jpg" class="picto" alt="icon responsable">
-                    <p>Responsable</p>
-                </div>
-                <div class="promesse">
-                    <img src="./Images/Vector-4.jpg" class="picto" alt="icon assistance">
-                    <p>24/7Assistance</p>
-                </div>
+    <div>
+        <img src="./Images/jason-goodman-Oalh2MojUuk-unsplash 1.jpg" class="photo-reunion">
+    </div>
+    <div class="a-propos-de-nous">
+        <h3>A propos de nous</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt</p>
+        <div class="icons">
+            <div class="promesse">
+                <img src="./Images/Vector-2.jpg" class="picto">
+                <p>Ecologique</p>
+            </div>
+            <div class="promesse">
+                <img src="./Images/Vector-3.jpg" class="picto">
+                <p>Responsable</p>
+            </div>
+            <div class="promesse">
+                <img src="./Images/Vector-4.jpg" class="picto">
+                <p>24/7Assistance</p>
             </div>
         </div>
     </div>
+</div>
+    -->
 
     <div id="notre-galerie">
         <h2>Notre galerie</h2>
