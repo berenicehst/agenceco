@@ -598,3 +598,86 @@ footer p{
   border-radius: 20%;
   margin: 10%;
   }
+
+  /*  Matt - début */
+#DuoBloc
+{
+  display: flex;
+  padding: 40px 40px 40px 40px ;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.imagereunion
+{
+  width: 50%;
+  border-radius: 5%;
+  border: 2px;
+}
+
+#servicesbloc
+{
+  width: 400px;
+  height: 170px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  border: solid 0.5px #053B44 ;
+  border-radius: 5%;
+  padding: 10% 5% 10% 5%;
+
+}
+
+.apropos
+{
+  width: 100%;
+  display: flex;
+  font-family: 'robotomedium';
+  text-align: center;
+  font-size: large;
+  color: #1C2126;
+  padding-top: 10%;
+
+}
+
+.blockhorizontal
+{
+  width: 100%;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content:space-between
+
+}
+
+.colonneicon
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 5%;
+}
+
+.cercle
+{
+  width: 70px;
+  height: 70px;
+  border: solid 3px #053B44;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 5%;
+
+}
+
+.bouton  /* ecologique, responsable, 24/7 assistance */
+{
+  font-family: 'robotobold';
+  color: #053B44;
+  font-size: small;
+  align-items: center;
+}
+
+/*  Matt - fin */
